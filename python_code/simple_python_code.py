@@ -1,3 +1,4 @@
 name = input("Enter your name: ")
 print("Hello", name)
-print("END")
+print("End of the program")
+print("end")
