@@ -1,4 +1,3 @@
-name = input("Enter your name: ")
+import os
+name = os.environ.get("NAME", "Default")
 print("Hello", name)
-print("End of the program")
-print("end")
