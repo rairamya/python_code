@@ -1,3 +1,2 @@
-import os
-name = os.environ.get("NAME", "Default")
-print("Hello", name)
+# simple_script.py
+print("Hello, Rajalakshmi")
